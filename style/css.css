@@ -1,0 +1,33 @@
+@font-face{ font-family:note; src:url(../font/note_this.ttf);}
+*{padding:0px;margin:0px;}
+body{text-align:center;background:url(../img/bg.jpg) repeat top left;}
+#warpper{background:url(../img/bg.jpg) repeat top left;width:242px;height:auto;margin:auto;font-family:note;padding-top:15px;}
+#cer{width:200px;height:200px;background:#fff;border-radius:100px;border:1px #000 solid;position:relative;}
+#n1,#n2,#n3,#n4,#n5,#n6,#n7,#n8,#n9,#n10,#n11,#n12,#g,#p,#center,#b,#pondul,#p3{position:absolute;}
+#center{width:10px;height:10px;background:#209ac8;top:95px;left:95px;border-radius:5px;-moz-border-radius:5px;}
+#n1,#n2,#n3,#n4,#n5,#n6,#n7,#n8,#n9,#n10,#n11,#n12{width:20px;height:20px;background:80a9da;-moz-border-radius:10px;border-radius:10px;}
+#n1{left:135px;top:13px;}
+#n2{left:167px;top:45px;}
+#n3{right:2px;top:90px;}
+#n4{left:167px;top:134px;}
+#n5{left:135px;top:167px;}
+#n6{left:90px;bottom:2px;}
+#n7{left:46px;top:167px;}
+#n8{left:14px;top:134px;}
+#n9{left:2px;top:90px;}
+#n10{left:14px;top:45px;}
+#n11{left:46px;top:13px;}
+#n12{left:90px;top:2px;}
+#g,#p,#b{width:1px;height:100%;left:99.5px;background:transparent;}
+#cont{padding:20px;background:url(../img/b.jpg)  repeat top left;;border-radius:20px;border:1px #000 solid;padding-top:20px;padding-bottom:20px;margin-top:20px;}
+#g .pic{margin-top:10px;margin-left:-3.5px;width:0px;height:0px;border-bottom:110px #000 solid;border-top:0px;border-left:4px transparent solid;border-right:4px transparent solid;}
+#p .pic{margin-top:25px;margin-left:-5.5px;width:0px;height:0px;border-bottom:90px #000 solid;border-top:0px;border-left:6px transparent solid;border-right:6px transparent solid;}
+#b .pic{margin-top:5px;margin-left:-2.5px;width:0px;height:0px;border-bottom:120px red solid;border-top:0px;border-left:3px transparent solid;border-right:3px transparent solid;}
+#bas{border:1px #000 solid;margin-top:10px;height:50px;background: #c98c51;border-radius:10px;height:200px;position:relative;}
+#pondul{width:3px;height:340;left:98.5px;top:-170; background:transparent;-webkit-transition-property:-webkit-transform;-webkit-transition-duration:1s;}
+#p1{width:3px;height:50%;float:left;background:transparent;}
+#p2{width:3px;height:50%;float:left;background:#000;}
+#p3{background:#000;width:20px;height:20px;border-radius:10px;-moz-border-radius:10px;bottom:-10px;left:-9.5px;}
+
+
+
